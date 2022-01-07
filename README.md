@@ -1,5 +1,5 @@
-Command line:
+Command line: /n/n
 
-npm install
-npm start (to open the website in the browser)
-npm run devStart (to start the server)
+npm install /n
+npm start (to open the website in the browser)/n
+npm run devStart (to start the server)/n
